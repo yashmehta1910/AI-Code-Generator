@@ -1,4 +1,4 @@
-# ⚡ AI Code Generator
+# AI Code Generator
 
 Generate production-ready code in 18+ languages using Google Gemini — with live streaming, refinement, and unit test generation.
 
